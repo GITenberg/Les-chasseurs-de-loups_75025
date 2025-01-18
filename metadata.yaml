@@ -1,0 +1,45 @@
+_repo: Les-chasseurs-de-loups_75025
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Gruyer, Paul
+    birthdate: 1868
+    deathdate: 1930
+    gutenberg_agent_id: '53318'
+    url: http://www.gutenberg.org/2009/agents/53318
+    wikipedia: https://fr.wikipedia.org/wiki/Paul_Gruyer
+  - agent_name: Postif, Louis
+    birthdate: 1887
+    deathdate: 1942
+    gutenberg_agent_id: '53319'
+    url: http://www.gutenberg.org/2009/agents/53319
+    wikipedia: https://fr.wikipedia.org/wiki/Louis_Postif
+creator:
+  author:
+    agent_name: Curwood, James Oliver
+    alias: Curwood, James-Oliver
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '1487'
+    url: http://www.gutenberg.org/2009/agents/1487
+    wikipedia: https://en.wikipedia.org/wiki/James_Oliver_Curwood
+description: ''
+gutenberg_issued: '2025-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75025'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k9741158g
+pgterms:marc905: 20241213125650curwood
+pgterms:marc906: '1929'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bHachette, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les chasseurs de loups
+url: http://www.gutenberg.org/ebooks/75025
